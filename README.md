@@ -1,5 +1,5 @@
 # WiFi-Attendance
-基于Wi-Fi定位的考勤系统，通过Wi-Fi信息完成签到、考勤、公告发布、请假等功能，主要有手机签到端和服务器端
+基于wifi Wi-Fi定位的考勤系统，通过Wi-Fi信息完成签到、考勤、公告发布、请假等功能，主要有手机签到端和服务器端
 
 [![](https://img.shields.io/badge/Video-%E6%BC%94%E7%A4%BA-yellow)](https://www.bilibili.com/video/BV1po4y127Cc/)
 [![](https://img.shields.io/badge/author-GXW-green)]()
